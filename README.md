@@ -16,6 +16,9 @@ This is a collobarative effort with the following contributers:
 * Dr. Jeff Druce (https://www.linkedin.com/in/jeff-druce-296135114)
 * Prof. Stefano Gonella (http://www.cege.umn.edu/directory/faculty-directory/gonella.html)
 
+The following are the publications related to damage pursuit
+
+![alt text](/https://github.com/swayambhoo/Damage_Pursuit/blob/master/GUI_Picture.png "Title")
 
 
 
