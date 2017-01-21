@@ -10,11 +10,11 @@ of the respective component.
 Please read "DamagePursuitManual_19_04_2016.pdf" for detailed user manual. 
 
 This is a collobarative effort with the following contributers:
-1) Mojtaba Kadkhodaie (http://www.ee.umn.edu/users/kadkh004/index.html)
-2) Swayambhoo Jain (http://people.ece.umn.edu/users/jainx174/)
-2) Prof. Jarvis Haupt (http://people.ece.umn.edu/~jdhaupt/)
-3) Dr. Jeff Druce (https://www.linkedin.com/in/jeff-druce-296135114)
-4) Prof. Stefano Gonella (http://www.cege.umn.edu/directory/faculty-directory/gonella.html)
+* Mojtaba Kadkhodaie (http://www.ee.umn.edu/users/kadkh004/index.html)
+* Swayambhoo Jain (http://people.ece.umn.edu/users/jainx174/)
+* Prof. Jarvis Haupt (http://people.ece.umn.edu/~jdhaupt/)
+* Dr. Jeff Druce (https://www.linkedin.com/in/jeff-druce-296135114)
+* Prof. Stefano Gonella (http://www.cege.umn.edu/directory/faculty-directory/gonella.html)
 
 
 
