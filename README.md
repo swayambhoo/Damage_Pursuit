@@ -9,7 +9,7 @@ of the respective component.
 
 Please read "DamagePursuitManual_19_04_2016.pdf" for detailed user manual. 
 
-This is a collobarative effort with the following contributers:
+## This is a collobarative effort with the following contributers:
 1) Mojtaba Kadkhodaie (http://www.ee.umn.edu/users/kadkh004/index.html)
 2) Swayambhoo Jain (http://people.ece.umn.edu/users/jainx174/)
 2) Prof. Jarvis Haupt (http://people.ece.umn.edu/~jdhaupt/)
