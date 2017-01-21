@@ -18,7 +18,7 @@ This is a collobarative effort with the following contributers:
 
 The following are the publications related to damage pursuit
 
-![alt text](/https://github.com/swayambhoo/Damage_Pursuit/blob/master/GUI_Picture.png "Title")
+![alt text](/https://github.com/swayambhoo/Damage_Pursuit/blob/master/GUI_Picture.png "GUI Picture")
 
 
 
