@@ -29,8 +29,8 @@ This is a collobarative effort with the following contributers:
 
 ##Citation
 Please cite the following works if you use this package.
-[1] M. Kadkhodaie, S. Jain, J. Haupt, J. Druce, and S. Gonella,, ``Group-level support recovery guarantees for group lasso estimation,'' /Proc. of Intl. Conf. on Acoust., Speech, and Signal Processing/, March 2017.
-[2] M. Kadkhodaie, S. Jain, J. Haupt, J. Druce, and S. Gonella,‘‘Locating rare and weak material anomalies by convex demixing of propagating wavefields,’’ IEEE Workshop on Computational Advances in Multi-Sensor Adaptive Processing, December 2015.
+* M. Kadkhodaie, S. Jain, J. Haupt, J. Druce, and S. Gonella,, ``Group-level support recovery guarantees for group lasso estimation,'' /Proc. of Intl. Conf. on Acoust., Speech, and Signal Processing/, March 2017.
+* M. Kadkhodaie, S. Jain, J. Haupt, J. Druce, and S. Gonella,‘‘Locating rare and weak material anomalies by convex demixing of propagating wavefields,’’ IEEE Workshop on Computational Advances in Multi-Sensor Adaptive Processing, December 2015.
 
 
 
