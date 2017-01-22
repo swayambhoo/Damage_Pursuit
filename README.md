@@ -4,12 +4,8 @@
 ![GUI](GUI_Picture.png "GUI Picture")
 
 Damage pursuit is a Matlab-based software for detecting and triangulating material anomalies in physical
-structures. The Damage pursuit package contains MATLAB GUI as well as command line interface. 
+structures. The package takes as input an array of wavefield data (time histories of displacements at a grid of points on a material surface), and returns an image displaying the coordinates of localized defects in the material. The routine requires no prior knowledge of the material properties or characterization of pristine baseline cases, with only minimal user involvement. The Damage pursuit package contains MATLAB GUI as well as command line interface. 
 
-It works by decomposing the spatiotemporal displacement measurements of the structure, which are resulted from a propagating wave, into a spatially-smooth component associated with the undamaged bulkof the medium, and a spatially-localized component caused by existing anomalies. In order to perform the
-decomposition, Damage Pursuit seeks efficient representations of the smooth and spatially-localized components
-in terms of appropriate bases (also called dictionaries), which are chosen based on the overall behavior
-of the respective component. 
 
 ##Principle of Operation
 
